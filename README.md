@@ -1,10 +1,13 @@
-JavaScript Memory Match Game README FILE: 
+# README FILE: 
+### JavaScript Memory Match Game 
+
+## Description
 
 This is a Memory Match Game built using HTML, CSS, and JavaScript. The game involves flipping over pairs of cards to find matches. 
 The cards are images of different JavaScript libraries and frameworks. The goal of the game is to find all the matches in the shortest time possible.
 
 
-##MVP (Minimum Viable Product):
+### MVP Features-  (Minimum Viable Product):
 
 
 -A grid of cards with JavaScript library and framework images
@@ -19,7 +22,7 @@ The cards are images of different JavaScript libraries and frameworks. The goal 
 
 
 
-##PMVP (Nice to Have):
+### PMVP Features - Post Minimum Viable Product (Nice to Have):
 
 
 -Add a scoring system to keep track of the number of attempts
@@ -33,7 +36,7 @@ The cards are images of different JavaScript libraries and frameworks. The goal 
 -Add the ability to customize the cards with your own images
 
 
-Getting Started:
+### Getting Started:
 1. Clone the repository to your local machine
 
 2. Open the index.html file in your web browser
@@ -43,7 +46,7 @@ Getting Started:
 4. Try to find all the matches in the shortest time possible
 
 
-Wireframe:
+## Wireframe:
 
 
 ![JavaScript Memory Match Game](5A0CE7F6-21A6-4287-A44E-C2C9D85047BC.jpeg)
@@ -51,17 +54,17 @@ Wireframe:
 
 
 
-Built With:
+## Built With:
 HTML5
 CSS3
 JavaScript
 
 
-Author:
+## Author:
 Kenya Woods
 
 
-Acknowledgments
+## Acknowledgments
 Inspiration for the game design and code structure was taken from various resources.
 The images used in the game are from the official websites of the respective JavaScript libraries and frameworks.
 
