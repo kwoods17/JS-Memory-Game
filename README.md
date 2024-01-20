@@ -44,7 +44,7 @@ Getting Started:
 
 
 Wireframe:
-https://whimsical.com/javascript-memory-match-game-YDo97Wk1QXPaAVsnZ52chw
+
 
 ![JavaScript Memory Match Game](5A0CE7F6-21A6-4287-A44E-C2C9D85047BC.jpeg)
 
