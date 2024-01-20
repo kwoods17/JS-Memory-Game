@@ -10,30 +10,30 @@ The cards are images of different JavaScript libraries and frameworks. The goal 
 ### MVP Features-  (Minimum Viable Product):
 
 
--A grid of cards with JavaScript library and framework images
+- A grid of cards with JavaScript library and framework images
 
--The ability to flip over two cards at a time
+- The ability to flip over two cards at a time
 
--A match is found if the two cards have the same image
+- A match is found if the two cards have the same image
 
--The game keeps track of the time taken to find all matches
+- The game keeps track of the time taken to find all matches
 
--The game restarts when all matches are found
+- The game restarts when all matches are found
 
 
 
 ### PMVP Features - Post Minimum Viable Product (Nice to Have):
 
 
--Add a scoring system to keep track of the number of attempts
+- Add a scoring system to keep track of the number of attempts
 
--Add a leaderboard to compare scores with other players
+- Add a leaderboard to compare scores with other players
 
--Add different levels of difficulty (e.g. more cards, more pairs)
+- Add different levels of difficulty (e.g. more cards, more pairs)
 
--Add sound effects and background music
+- Add sound effects and background music
 
--Add the ability to customize the cards with your own images
+- Add the ability to customize the cards with your own images
 
 
 ### Getting Started:
@@ -48,9 +48,7 @@ The cards are images of different JavaScript libraries and frameworks. The goal 
 
 ## Wireframe:
 
-
-![JavaScript Memory Match Game](5A0CE7F6-21A6-4287-A44E-C2C9D85047BC.jpeg)
-
+![JavaScript Memory Match Game wireframe](https://github.com/kwoods17/JS-Memory-Game/assets/147005799/e7b7c590-32fa-427f-bc35-8fad1e28710f)
 
 
 
