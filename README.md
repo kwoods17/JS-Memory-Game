@@ -1,5 +1,5 @@
 JavaScript Memory Challenge README FILE
-This is a memory matching game built using HTML, CSS, and JavaScript. The game involves flipping over pairs of cards to find matches. 
+This is a memory matching game built using HTML, CSS, and JavaScript. The game involves flipping over pairs of cards to find matches.
 The cards are images of different JavaScript libraries and frameworks. The goal of the game is to find all the matches in the shortest time possible.
 
 MVP (Minimum Viable Product)
@@ -25,10 +25,7 @@ Try to find all the matches in the shortest time possible
 Wireframe:
 https://whimsical.com/javascript-memory-match-game-YDo97Wk1QXPaAVsnZ52chw
 
-![JavaScript Memory Match Game](5A0CE7F6-21A6-4287-A44E-C2C9D85047BC.jpeg)
-
-
-
+![JavaScript Memory Match Game](./Assets/wireframe.jpeg)
 
 Built With
 HTML5
